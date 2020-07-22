@@ -1,6 +1,6 @@
 # ASNP-RMR
 
-This is an official PyTorch implementation of the ASNP-RMR model presented in the following paper:
+This is an official Tensorflow implementation of the ASNP-RMR model presented in the following paper:
 
 > [Robustifying Sequential Neural Processes](https://proceedings.icml.cc/static/paper_files/icml/2020/4915-Paper.pdf)
 > , *[Jaesik Yoon](https://sites.google.com/view/jaesikyoon/home), [Gautam Singh](https://singhgautam.github.io/), [Sungjin Ahn](https://sungjinahn.com/)*
